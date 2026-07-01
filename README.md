@@ -1,6 +1,6 @@
 # Connor Dibble
 
-Senior software engineer building software platforms, frontend design systems, and AI agent systems and developer workflows.
+Senior software engineer building software platforms, frontend design systems, AI agent systems and developer workflows.
 
 I work at the intersection of design systems, platform engineering, and applied AI: component governance, Figma-to-code workflows, typed tool contracts, human-in-the-loop review, and production-safe automation.
 
